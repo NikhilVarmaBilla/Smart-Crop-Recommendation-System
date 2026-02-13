@@ -81,4 +81,4 @@ Computer Science and Engineering
 
 ## GitHub Repository
 
-(Add your GitHub link here)
+(https://github.com/NikhilVarmaBilla/Smart-Crop-Recommendation-System)
